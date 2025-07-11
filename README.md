@@ -32,7 +32,7 @@ This is a simple web application that converts Markdown to HTML and vice-versa. 
 4.  The converted output will be displayed on the right.
 5.  Click the arrow button between the editor and preview to switch between conversion modes.
 
-## Technologies Used
+## Libs & frameworks Used
 
 *   [React](https://reactjs.org/)
 *   [Vite](https://vitejs.dev/)
