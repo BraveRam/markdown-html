@@ -29,7 +29,7 @@ export function Header() {
                     <NavigationMenuLink asChild>
                       <a
                         className="flex"
-                        href="https://github.com/braveram/repo"
+                        href="https://github.com/BraveRam/markdown-html"
                       >
                         <Github className="mx-auto" />
                         <span className="text-center font-extrabold">Repo</span>
